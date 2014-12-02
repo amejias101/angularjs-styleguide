@@ -1,3 +1,6 @@
+## TODO: Add file naming convetion
+
+
 # AngularJS styleguide
 
 *Opinionated AngularJS styleguide for teams by [@toddmotto](//twitter.com/toddmotto)*
